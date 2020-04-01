@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Miwok App</string>
+
+    <string name="title1">Numbers</string>
+    <string name="title2">Family</string>
+    <string name="title3">Colors</string>
+    <string name="title4">Phrases</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
